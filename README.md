@@ -15,7 +15,7 @@ The USB DAC with the volume control identifies as PCM5102A DAC and the older non
 
 There does not seem to be any issues when playing higher defintion material in windows 10 using the DAC
 
-The [**STM32F11 can be obtained here**](https://www.robotics.org.za/STM32F411CEU6-MOD) and the [**PCM5102A DAC module here**]([https://www.robotics.org.za/PCM5102?search=pcm5102](https://www.robotics.org.za/PCM5102).
+The [**STM32F11 can be obtained here**](https://www.robotics.org.za/STM32F411CEU6-MOD) and the [**PCM5102A DAC module here**](https://www.robotics.org.za/PCM5102?search=pcm5102](https://www.robotics.org.za/PCM5102).
 
 <p align="left">
 <img src="images/dac.jpg" height="210" /> 
