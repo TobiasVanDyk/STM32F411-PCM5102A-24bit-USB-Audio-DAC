@@ -13,7 +13,7 @@ The USB DAC with the volume control identifies as PCM5102A DAC and the older non
 <img src="images/dac3.png" height="110" /> 
 </p>
 
-There does not seem to be any issues when playing higher defintion material in windows 10 using the DAC
+There does not seem to be any issues when playing higher definition material in windows 10 using the DAC
 
 ``` 
 F411    PCM5102A    LED    Description
