@@ -15,6 +15,23 @@ The USB DAC with the volume control identifies as PCM5102A DAC and the older non
 
 There does not seem to be any issues when playing higher defintion material in windows 10 using the DAC
 
+``` 
+F411    PCM5102A    LED    Description
+--------------------------------------------------------------------
+5V      VCC
+GND     GND
+GND     SCL                Generate I2S_MCK internally
+B13     BCK                I2S_BCK (Bit Clock)
+B15     Data               I2S_SDI (Data Input)
+B12     LRCK               I2S_WS (LR Clock)
+-------------------------------------------------------------------- 
+B3                 RED     Fs = 96kHz (all 220R to 3v3)
+B6                 GRN     Fs = 48kHz
+B9                 BLU     Fs = 44.1kHz
+C13             on-board   Diagnostic
+--------------------------------------------------------------------
+``` 
+
 The [**STM32F11 can be obtained here**](https://www.robotics.org.za/STM32F411CEU6-MOD) and the [**PCM5102A DAC module here**](https://www.robotics.org.za/PCM5102).
 
 <p align="left">
