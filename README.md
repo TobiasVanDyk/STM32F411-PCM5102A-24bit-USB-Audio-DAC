@@ -36,4 +36,5 @@ The [**STM32F11 can be obtained here**](https://www.robotics.org.za/STM32F411CEU
 <p align="left">
 <img src="images/mcu.jpg" height="210" />   
 <img src="images/dac.jpg" height="210" />
+<img src="images/pinout.png" height="210" />
 </p>
