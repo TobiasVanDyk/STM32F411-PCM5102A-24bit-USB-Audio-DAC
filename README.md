@@ -19,8 +19,7 @@ There does not seem to be any issues when playing higher definition material in 
 F411    PCM5102A    LED    Description
 --------------------------------------------------------------------
 5V      VCC
-GND     GND
-GND     SCL                Generate I2S_MCK internally
+GND     GND            
 B13     BCK                I2S_BCK (Bit Clock)
 B15     Data               I2S_SDI (Data Input)
 B12     LRCK               I2S_WS (LR Clock)
@@ -28,7 +27,7 @@ B12     LRCK               I2S_WS (LR Clock)
 B3                 RED     Fs = 96kHz (all 220R to 3v3)
 B6                 GRN     Fs = 48kHz
 B9                 BLU     Fs = 44.1kHz
-C13             on-board   Diagnostic
+C13             On-board   Diagnostic
 --------------------------------------------------------------------
 ``` 
 
