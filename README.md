@@ -30,6 +30,10 @@ B9                 BLU     Fs = 44.1kHz
 C13             On-board   Diagnostic
 --------------------------------------------------------------------
 ``` 
+<p align="left">
+<img src="images/case0.jpg" height="180" /> 
+<img src="images/case1.jpg" height="180" /> 
+</p>
 
 The [**STM32F11 can be obtained here**](https://www.robotics.org.za/STM32F411CEU6-MOD) and the [**PCM5102A DAC module here**](https://www.robotics.org.za/PCM5102).
 
