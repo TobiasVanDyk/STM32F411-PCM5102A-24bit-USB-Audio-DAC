@@ -10,7 +10,7 @@ The USB DAC with the volume control identifies as PCM5102A DAC and the older non
 <p align="left">
 <img src="images/dac1.jpg" height="110" /> 
 <img src="images/dac2.jpg" height="110" /> 
-<img src="images/dac3.png" height="110" /> 
+<img src="images/dac3.jpg" height="110" /> 
 </p>
 
 There does not seem to be any issues when playing higher definition material in windows 10 using the DAC.
