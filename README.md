@@ -64,7 +64,7 @@ The [**STM32F11 can be obtained here**](https://www.robotics.org.za/STM32F411CEU
 There seem to be many variations of these PCM5102A modules - where available schematics of single, double and triple (as used here) LDO regulator modules are shown below.
 
 <p align="left">
-<img src="images/pcm5102a-singleLDOa.jpg" height="140" /> 
-<img src="images/pcm5102a-singleLDOb.png" height="140" /> 
-<img src="images/pcm5102a-doubleLDO.jpg" height="140" /> 
+<img src="images/pcm5102a-singleLDOa.jpg" height="160" /> 
+<img src="images/pcm5102a-singleLDOb.png" height="160" /> 
+<img src="images/pcm5102a-doubleLDO.jpg" height="160" /> 
 </p>
