@@ -17,7 +17,7 @@ The USB DAC with the volume control identifies as PCM5102A DAC and the older non
 <img src="images/dac3.jpg" height="110" /> 
 </p>
 
-<img src="images/MuteFix.jpg" width="16" height="16"/> As a quick fix for the PCM5102A module used lacking a hardware mute breakout pin, I am using a modification of bsp_audio.c to enable the Volume Mute control - the compiled version is in MuteFix.zip.
+<img src="images/MuteFix.jpg" width="16" height="16"/> The PCM5102A module used here does not have a hardware mute breakout pin. Two changes to bsp_audio.c results in a partial fix to provide an alternative "volume mute" - the compiled version is in MuteFix.zip.
 
 ``` 
 uint8_t BSP_AUDIO_OUT_SetMute(uint8_t mute) {
@@ -64,7 +64,7 @@ The [**STM32F11 can be obtained here**](https://www.robotics.org.za/STM32F411CEU
 There seem to be many variations of these PCM5102A modules - where available schematics of single, double and triple (as used here) LDO regulator modules are shown below.
 
 <p align="left">
-<img src="images/pcm5102a-singleLDOa.jpg" height="110" /> 
-<img src="images/pcm5102a-singleLDOb.png" height="110" /> 
-<img src="images/pcm5102a-doubleLDO.jpg" height="110" /> 
+<img src="images/pcm5102a-singleLDOa.jpg" height="140" /> 
+<img src="images/pcm5102a-singleLDOb.png" height="140" /> 
+<img src="images/pcm5102a-doubleLDO.jpg" height="140" /> 
 </p>
