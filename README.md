@@ -17,7 +17,7 @@ The USB DAC with the volume control identifies as PCM5102A DAC and the older non
 <img src="images/dac3.jpg" height="110" /> 
 </p>
 
-<img src="images/MuteFix.jpg" width="16" height="16"/> The PCM5102A module used here does not have a hardware mute breakout pin. Two changes to bsp_audio.c results in a partial fix to provide an alternative "volume mute" - the compiled version is in MuteFix.zip.
+<img src="images/MuteFix.jpg" width="16" height="16"/> The PCM5102A module used here does not have a hardware mute breakout pin. Two changes to bsp_audio.c results in a partial fix to provide an alternative "volume mute" - the compiled version is in MuteFix.zip. This version use only the red and green LEDs to indicate the three frequency modes - those changes are in main.c
 
 ``` 
 uint8_t BSP_AUDIO_OUT_SetMute(uint8_t mute) {
