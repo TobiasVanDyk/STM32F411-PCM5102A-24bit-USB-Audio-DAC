@@ -65,6 +65,6 @@ There seems to be many variations of these PCM5102A modules - schematics of the 
 
 <p align="left">
 <img src="images/pcm5102a-singleLDOa.jpg" height="110" /> 
-<img src="images/pcm5102a-singleLDOb.jpg" height="110" /> 
+<img src="images/pcm5102a-singleLDOb.png" height="110" /> 
 <img src="images/pcm5102a-doubleLDO.jpg" height="110" /> 
 </p>
