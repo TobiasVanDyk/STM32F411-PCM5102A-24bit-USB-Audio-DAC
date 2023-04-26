@@ -61,7 +61,7 @@ The [**STM32F11 can be obtained here**](https://www.robotics.org.za/STM32F411CEU
 <img src="images/pinout.png" height="210" />
 </p>
 
-There seems to be many variations of these PCM5102A modules - schematics of the single, double and triple (as used her) LDO modules are shown below.
+There seems to be many variations of these PCM5102A modules - where available schematics of the single, double and triple (as used here) LDO modules are below.
 
 <p align="left">
 <img src="images/pcm5102a-singleLDOa.jpg" height="110" /> 
