@@ -1,0 +1,10 @@
+https://github.com/har-in-air/STM32F411_USB_AUDIO_DAC/network/members
+
+1 	Jan 25 2021  https://github.com/jony5-robot/STM32F411_USB_AUDIO_DAC
+2 	Jun 30 2021  https://github.com/HiIamChaitanya/STM32F411_USB_AUDIO_DAC
+3 	Aug 23 2022  https://github.com/kagurazakahope/STM32F401_USB_AUDIO_DAC  modified for ES9023 DAC
+4 + 5 	May 28 2022  https://github.com/liushiwei/stm32f4_usbaudio              stm32f4_usbaudio mofified for a few other DACs
+6 	Jun 26 2021  https://github.com/liushiwei/stm32f4_usbaudio           	stm32f469-usbaudio  mofified for a 32F469IDISCOVERY board 
+7 	Oct 14 2021  https://github.com/mcginty/wombo_old                    	changed usb volume section
+8 	Jan 8  2022  https://github.com/mkullber/STM32F411_USB_AUDIO_DAC       	changed usb volume section
+9 	May 18 2022  https://github.com/neurotoxin78/f411_usb_audio 		f411_usb_audio possibly use nucleo board
