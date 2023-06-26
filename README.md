@@ -67,3 +67,9 @@ This DAC is the perfect companion for the [**1976 November Wireless World An Adv
 <img src="images/pcm5102a-singleLDOb.png" height="160" /> 
 <img src="images/pcm5102a-doubleLDO.jpg" height="160" /> 
 </p>
+<p align="left">
+<img src="images/pcm5102a-singleLDOtop.jpg" height="160" /> 
+<img src="images/pcm5102a-singleLDObbottom.png" height="160" /> 
+<img src="images/pcm5102a-doubleLDOtop.jpg" height="160" /> 
+<img src="images/pcm5102a-doubleLDObottom.jpg" height="160" />	
+</p>
