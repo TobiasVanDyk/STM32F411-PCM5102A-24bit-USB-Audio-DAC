@@ -63,9 +63,10 @@ The [**STM32F11 can be obtained here**](https://www.robotics.org.za/STM32F411CEU
 This DAC is the perfect companion for the [**1976 November Wireless World An Advanced Preamplifier by Douglas Self**](https://github.com/TobiasVanDyk/Building-the-Advanced-Preamplifier-1976-Douglas-Self). There seem to be many variations of these PCM5102A modules - where available schematics of single, double and triple (as used here) LDO regulator modules are shown below.
 
 <p align="left">
-<img src="images/pcm5102a-singleLDOa.jpg" height="160" /> 
-<img src="images/pcm5102a-singleLDOb.png" height="160" /> 
-<img src="images/pcm5102a-doubleLDO.jpg" height="160" /> 
+<img src="images/pcm5102a-singleLDOa.jpg" height="140" /> 
+<img src="images/pcm5102a-singleLDOb.png" height="140" /> 
+<img src="images/CJMCU-5102.png" height="140" />
+<img src="images/pcm5102a-doubleLDO.jpg" height="140" /> 
 </p>
 <p align="left">
 <img src="images/pcm5102a-singleLDOtop.jpg" height="160" /> 
