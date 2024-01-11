@@ -72,9 +72,9 @@ B15     DIN                I2S_SDI (Data Input)
 B12     LCK                I2S_WS (LR Clock)
 B8      XMT                Mute Control
 
-Bridge the SCLK with solder
+Bridge the SCK pads on top with solder to connect it to earth
 -------------------------------------------------------------------- 
-B3                 RED     Fs = 96kHz (all 220R to 3v3)
+B3                 RED     Fs = 96kHz (both SMD-LEDs 1k ohm to 3v3)
 B6                 GRN     Fs = 48kHz
 3v3                LED SMD-1206 common
  
