@@ -1,0 +1,73 @@
+// <params> for STM32F411 Black Pill
+pcbThickness = 1.55;
+pcbWidth = 21.5;
+pcbLength = 53;
+pcbOffsetFromBase = 10;
+tolerance = 0.05;
+wall = 1.5;
+ridge = 1.5;
+screwSize = 3;
+screwHoleWall = 2;
+screwButtressWall = 10;
+screw1DistanceFromFront = 5;
+screw2DistanceFromFront = 35;
+screwDistanceFromPCB = 5;
+rearHole = 10;
+holeDistanceFromWall = 5;
+// </params>
+
+
+// <params> for STM32F103 Blue Pill
+pcbThickness = 1.55;
+pcbWidth = 22.7;
+pcbLength = 52.8;
+pcbOffsetFromBase = 2.6;
+tolerance = 0.05;
+wall = 1.5;
+ridge = 1.5;
+screwSize = 3.5;
+screwHoleWall = 2;
+screwButtressWall = 3;
+screw1DistanceFromFront = 5;
+screw2DistanceFromFront = 50;
+screwDistanceFromPCB = 6;
+rearHole = 10;
+holeDistanceFromWall = 4;
+// </params>
+
+// <params> for Teensy 4.1
+pcbThickness = 1.80;
+pcbWidth = 18.0;
+pcbLength = 61.0;
+pcbOffsetFromBase = 2.6;
+tolerance = 0.05;
+wall = 1.5;
+ridge = 1.5;
+screwSize = 3.5;
+screwHoleWall = 2;
+screwButtressWall = 3;
+screw1DistanceFromFront = 5;
+screw2DistanceFromFront = 50;
+screwDistanceFromPCB = 6;
+rearHole = 10;
+holeDistanceFromWall = 4;
+// </params>
+
+// <params> for Pi Pico 
+// Print Pico at 1.02 scaling if l1.50 PCB used w=21.624 h=52.224
+pcbThickness = 1.50;  
+pcbWidth = 21.52.22;
+pcbLength = 51.2;
+pcbOffsetFromBase = 2.6;
+tolerance = 0.05;
+wall = 1.5;
+ridge = 1.5;
+screwSize = 3.5;
+screwHoleWall = 2;
+screwButtressWall = 3;
+screw1DistanceFromFront = 5;
+screw2DistanceFromFront = 50;
+screwDistanceFromPCB = 6;
+rearHole = 10;
+holeDistanceFromWall = 4;
+// </params>
