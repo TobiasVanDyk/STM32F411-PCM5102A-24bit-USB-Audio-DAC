@@ -1,6 +1,6 @@
 # STM32F411 PCM5102A 24bit USB Audio DAC
 
-This is an inexpensive USBAudio DAC that supports 24-bit resolution audio at 44.1kHz, 48kHz or 96kHz. It uses an STM32F411 Black Pill with two different size and design, i2s PCM5102A DAC modules. It is based on this [**STM32F4xx USB to I2S DAC Audio Bridge**](https://github.com/har-in-air/STM32F411_USB_AUDIO_DAC) and the [**issue as discussed here**](https://github.com/har-in-air/STM32F411_USB_AUDIO_DAC/issues/7).
+This is an inexpensive USBAudio DAC that supports 24-bit resolution audio at 44.1kHz, 48kHz or 96kHz. It use an STM32F411 Black Pill with two different size and design, i2s PCM5102A DAC modules. It is based on this [**STM32F4xx USB to I2S DAC Audio Bridge**](https://github.com/har-in-air/STM32F411_USB_AUDIO_DAC) and the [**issue as discussed here**](https://github.com/har-in-air/STM32F411_USB_AUDIO_DAC/issues/7).
 
 Two sizes of the DAC were made - the larger size use a PCM5102A DAC with three LDO regulators but no mute control pin, and the (much) smaller sized DAC use a two LDO regulators and has a mute control pin. This smaller sized DAC was constructed in December 2023 and January 2024.
 
