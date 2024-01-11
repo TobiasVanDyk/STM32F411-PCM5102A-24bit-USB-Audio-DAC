@@ -82,9 +82,10 @@ C13             On-board   Diagnostic
 --------------------------------------------------------------------
 ``` 
 <p align="left">
-<img src="images/Pic3.png" height="180" /> 
-<img src="images/Pic6.png" height="180" /> 
+<img src="images/Pic3.png" height="210" /> 
+<img src="images/Pic6.png" height="210" /> 
 </p>
+
 
 
 The [**STM32F11 can be obtained here**](https://www.robotics.org.za/STM32F411CEU6-MOD) and the [**larger PCM5102A DAC module here**](https://www.robotics.org.za/PCM5102) or [**the smaller size DAC here**](https://botshop.co.za/products/pcm5102-dac-i2s-interface-decoder-sound-card-board-digital-audio-gy-pcm5102-phat-format-player-module-for-raspberry-pi).
