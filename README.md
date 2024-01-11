@@ -55,7 +55,7 @@ C13             On-board   Diagnostic
 </p>
 
 The smaller DAC is the same as used by [**Har-In-Air**](https://github.com/har-in-air/STM32F411_USB_AUDIO_DAC) - but only two SMD LEDs are used. 
-Refer to [**SMD-LED-Resistor**](https://github.com/TobiasVanDyk/STM32F411-PCM5102A-24bit-USB-Audio-DAC/blob/main/images/SMD-LED-Resistor.png) for an approximate layout for the SMD resistors and LEDs.
+Refer to [**SMD-LED-Resistor**](https://github.com/TobiasVanDyk/STM32F411-PCM5102A-24bit-USB-Audio-DAC/blob/main/images/SMD-LED-Resistor.png) for an approximate layout for the SMD resistors and LEDs. Use a 4-pin JST male connector at the bottom of the STM32F411 board.
 
 The source and build files are included here as Small-USBAUDIODAC-Jan2024.zip and Small-build-Jan2024.zip - changes were made to main.c, usbd_desc.c, and bsp_audio.c.
 
