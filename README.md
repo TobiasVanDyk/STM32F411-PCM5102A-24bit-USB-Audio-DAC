@@ -2,7 +2,7 @@
 
 This is an inexpensive USBAudio DAC that supports 24-bit resolution audio at 44.1kHz, 48kHz or 96kHz. It uses an STM32F411 Black Pill with two different i2s PCM5102A DAC modules - they differ in size and design. The software is based on this [**STM32F4xx USB to I2S DAC Audio Bridge**](https://github.com/har-in-air/STM32F411_USB_AUDIO_DAC) and the [**issue as discussed here**](https://github.com/har-in-air/STM32F411_USB_AUDIO_DAC/issues/7).
 
-Two sizes of the DAC were made - the larger size use a PCM5102A DAC with three LDO regulators but no mute control pin, and the (much) smaller sized DAC use a two LDO regulators and has a mute control pin. 
+Two sizes of the DAC were made - the larger size use a PCM5102A DAC with three LDO regulators but no mute control pin, and the (much) smaller sized DAC use two LDO regulators and has a mute control pin. 
 
 The volume control code modifications as discussed in the issue linked to above, was added to a windows port of the code. The Windows 10 STM32CubeIDE project is included here as F411_USB_I2S.zip and the binaries are in build.zip - the hex file can directly be uploaded via the STM32CubeProgrammer using a standard ST-Link module. Note all licenses applicable are the original source code licenses. 
 
