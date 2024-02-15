@@ -88,7 +88,7 @@ C13             On-board   Diagnostic Blue LED
 
 
 
-The [**STM32F11 can be obtained here**](https://www.robotics.org.za/STM32F411CEU6-MOD) and the [**larger PCM5102A DAC module here**](https://www.robotics.org.za/PCM5102) or [**the smaller size DAC here**](https://botshop.co.za/products/pcm5102-dac-i2s-interface-decoder-sound-card-board-digital-audio-gy-pcm5102-phat-format-player-module-for-raspberry-pi).
+The [**STM32F11 can be obtained here**](https://www.robotics.org.za/STM32F411CEU6-MOD) and the [**larger PCM5102A DAC module here**](https://www.robotics.org.za/PCM5102) or the **smaller-sized DAC** [**here**](https://botshop.co.za/products/pcm5102-dac-i2s-interface-decoder-sound-card-board-digital-audio-gy-pcm5102-phat-format-player-module-for-raspberry-pi) or [**here**](https://www.robotics.org.za/PCM5102-MOD).
 
 <p align="left">
 <img src="images/mcu.jpg" height="210" />   
