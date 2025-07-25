@@ -12,10 +12,6 @@ The [**previous source**](https://github.com/har-in-air/STM32F411_USB_AUDIO_DAC/
 
 For [**older detailed instructions**](https://github.com/TobiasVanDyk/STM32F411-PCM5102A-24bit-USB-Audio-DAC/blob/main/Linux-Mint-211-and-Windows-10-compiling-and-uploading-the-STM32F411-USB-Audio-DAC-firmware.pdf), in setting up STMCube 1.11 and 1.12, refer to the PDF document: Installing STM32CubeIDE in Linux Mint 21.1 and in Windows 10, and compiling and uploading the STM32F411 USB Audio DAC firmware.
 
-The [**current source**](https://github.com/har-in-air/STM32F411_USB_AUDIO_DAC/issues/14) build binaries are included here as build-24March2023.zip, but now built with STM32CubeIDE version 1.12. Previous source (Feb 2023) binaries are here as build-linux3.tar.gz (Linux Mint 21.1 with STM32CubeIDE 1.11.2), and build-win10.zip (based on project files STM32F411_USB_AUDIO_DAC-win10.zip), built on Windows 10 using the same version of STM32CubeIDE.
-
-For [**detailed instructions in setting up STMCube refer to this document:**](https://github.com/TobiasVanDyk/STM32F411-PCM5102A-24bit-USB-Audio-DAC/blob/main/Linux-Mint-211-and-Windows-10-compiling-and-uploading-the-STM32F411-USB-Audio-DAC-firmware.pdf) Installing STM32CubeIDE in Linux Mint 21.1 and in Windows 10, and compiling and uploading the STM32F411 USB Audio DAC firmware.
-
 The USB DAC with the volume control identifies as PCM5102A DAC and the older non-volume version as USB to I2S DAC - refer to the screen dump shown below.
 
 <p align="left">
