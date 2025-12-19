@@ -4,7 +4,7 @@ This is an inexpensive USBAudio DAC that supports 24-bit resolution audio at 44.
 
 Two sizes of the DAC were made - the larger size module uses a PCM5102A DAC with three LDO regulators but with no mute control pin, and the (much) smaller sized DAC uses two LDO regulators and has a mute control pin. 
 
-Note that the [**BambooMaster RP2040 DAC**](https://github.com/BambooMaster/usb_sound_card_hires), which is further [**described here**]([https://github.com/TobiasVanDyk/STM32F411-PCM5102A-24bit-USB-Audio-DAC](https://github.com/TobiasVanDyk/Pico-MCU-from-Raspberry-Pi/tree/main/DacPico)), **sounds at least as good as the two STM32F411 DACs presented here**.
+Note that the [**BambooMaster RP2040 DAC**](https://github.com/BambooMaster/usb_sound_card_hires), which is further [**described here**](https://github.com/TobiasVanDyk/Pico-MCU-from-Raspberry-Pi/tree/main/DacPico), *sounds at least as good as the two STM32F411 DACs presented here*.
 
 The volume control code modifications as discussed in the issue linked to above, was added to a windows port of the code. The Windows 10 STM32CubeIDE project is included here as F411_USB_I2S.zip and the binaries are in build.zip - the hex file can directly be uploaded via the STM32CubeProgrammer using a standard ST-Link module. Note all licenses applicable are the original source code licenses. 
 
